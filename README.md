@@ -19,7 +19,7 @@ Run **Backend** first, then start **Frontend**.
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/RamanKishore08/Resume-Evaluator.git
+git clone https://github.com/Komalgupta8/ResumeMentor.git
 ```
 ### Open file directory
 ```bash
@@ -56,29 +56,29 @@ npm install react react-dom react-router-dom axios firebase framer-motion html2c
 npm start
 ```
 
-# SCREENSHOTS
+ # SCREENSHOTS
 
 ### Login page with firebase authentication
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/login.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/login.jpg)
 
 ### Selecting the options from the index page
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/page1.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/page1.jpg)
 
 ### RESUME BUILDING MODULE:
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/TemplateSelection.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/page1.jpg)
 
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/Template1.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/Template1.jpg)
 
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/Preview.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/Preview.jpg)
 
 ### RESUME SCORE AND SUGGESTION PROVIDER MODULE:
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/Resume.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/Resume.jpg)
 
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/Score.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/Score.jpg)
 
 ### BEST 5 SELECTION MODULE:
 
-![image](https://github.com/RamanKishore08/Resume-Evaluator/blob/main/Screenshots/Best5.jpg)
+![image](https://github.com/Komalgupta8/ResumeMentor/blob/main/Screenshots/Best5.jpg) 
 
 ---
 ## 🌟 Support the Project  
@@ -88,7 +88,7 @@ If you find this project helpful, feel free to **fork** it and give it a ⭐️!
 1. Click the **Fork** button at the top-right corner of this page.  
 2. Clone the forked repository to your local machine:  
 ```bash
-git clone https://github.com/RamanKishore08/Resume-Evaluator.git
+git clone https://github.com/Komalgupta8/ResumeMentor.git
 ```
 ---
 
